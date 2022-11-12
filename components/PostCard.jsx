@@ -9,8 +9,8 @@ function PostCard({ title, date, description, slug }) {
       <time className="text-gray-400">{date}</time>
       <p className="mt-4 italic">{description}</p>
 
-      <Link href="/[slug]" as={`/${slug}`}>
-        <a className="text-blue-500 mt-4 mb-2 block">Read more</a>
+      <Link className="text-blue-500 mt-4 mb-2 block" href="/[slug]" as={`/${slug}`}>
+        Read more
       </Link>
     </div>
   );
