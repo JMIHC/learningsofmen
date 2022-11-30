@@ -6,7 +6,7 @@ export default function Home({ posts }) {
     <div>
       <h1 className="mt-24 mb-12 font-bold text-3xl">Greetings,</h1>
       <p className="prose lg:prose-xl prose-stone">
-        What follows is what I&apos;ve been learning about being a man. After 
+        What follows is what I&apos;ve been learning about being a man. Long after 
         my Father&apos;s passing, I get to find out what he wants me to know, 
         what I imagine he wanted from his Father, what any man would want from 
         a Father or a mentor. It&apos;s a long line of men, my ancestors, 
