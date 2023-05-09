@@ -7,7 +7,7 @@ function Footer() {
           <Link href='/' className="link link-hover">Front page</Link> 
         </div> 
         <div>
-          <p>Copyright © 2022 - Johnny Cornyn   Reach out at johnny@learningsof.men</p>
+          <p>Copyright © 2022-2023 - Johnny Cornyn   Reach out at johnny@learningsof.men</p>
         </div>
       </footer>
     );
